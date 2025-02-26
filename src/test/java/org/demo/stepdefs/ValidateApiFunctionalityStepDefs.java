@@ -1,0 +1,1 @@
+package org.demo.stepdefs;\n\nimport io.cucumber.java.en.Given;\nimport io.cucumber.java.en.When;\nimport io.cucumber.java.en.Then;\nimport static org.junit.Assert.*;\n\npublic class ValidateApiFunctionalityStepDefs {\n\n  @Given(\"a valid API key\")\n  public void a_valid_api
